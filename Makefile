@@ -1,5 +1,5 @@
-all: ParameterPassing.cpp
-	g++ -g3 -S $^
+all: ParameterPassing.cpp funcs.s
+	g++ -g3 $^
 
 clean:
 	rm -rf *.exe *.out *.o
