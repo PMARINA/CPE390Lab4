@@ -1,6 +1,8 @@
 # User's .vscode
 /.vscode
 
+review.cpp
+
 # Prerequisites
 *.d
 
